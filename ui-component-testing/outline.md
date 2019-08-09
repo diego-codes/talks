@@ -25,11 +25,6 @@
 - Automated: Using Jest with `fireEvent` for interactions
 - Automated: Using Jest mock functions for actions
 
-## Testing component clean up (don't leave a mess)
-
-- Cleaning up anything set up outside of component like window event listeners
-- Automated: Using Jest spies
-
 ## Conclusion
 
 - ??
